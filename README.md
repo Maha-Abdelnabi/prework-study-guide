@@ -4,7 +4,7 @@
 
 ## Description
 
-the motivation to change my career and learn a new subjcet push me to participate in this project and build a prework study guide to know the basics and solve a lot of issues that help me understand and practice how to connect git and github, how to use vs code and use different programming langueges
+The motivation to change my career and learn a new subjcet push me to participate in this project and build a prework study guide to know the basics and solve a lot of issues that help me understand and practice how to connect git and github, how to use vs code and use different programming langueges
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 ## Installation
